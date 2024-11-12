@@ -1,5 +1,5 @@
 #!/bin/bash
-# Name script: brute_ceasar.sh
+# Name script: krypton_01.sh
 # Name author: Cristian Estarellas
 # Year: 2023
 # Explanation script:
