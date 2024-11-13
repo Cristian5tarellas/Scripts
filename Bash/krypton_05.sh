@@ -1,5 +1,5 @@
 #!/bin/bash
-# Name script: krypton_l6.sh
+# Name script: krypton_05.sh
 # Name author: Cristian Estarellas
 # Year: 2023
 # Explanation script:
